@@ -24,7 +24,7 @@ Veja meus projetos em [Meu portfólio](https://dougfsilva.github.io/portfolio/#/
 </div> <br/><br/>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dougfsilva&layout=compact)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dougfsilva&repo=dougfsilva&layout=compact)]()
 
 
 ## Último projetos
