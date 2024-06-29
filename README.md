@@ -2,8 +2,6 @@
 
 ---
 
-Veja meus projetos em [Meu portfólio](https://dougfsilva.github.io/portfolio/#/portfolio)
-
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-ferreira-da-silva-bba88623a/)
 
 ![DougFSilva GitHub stats](https://github-readme-stats.vercel.app/api?username=dougfsilva&repo=dougfsilva&show_icons=true&theme=merko)
